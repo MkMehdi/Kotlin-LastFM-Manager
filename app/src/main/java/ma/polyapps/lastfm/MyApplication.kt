@@ -6,14 +6,9 @@ import ma.polyapps.lastfm.db.AppDatabase
 import ma.polyapps.lastfm.db.DataRepository
 
 
-
-
-
-
 /**
  * Created by Elmehdi Mellouk on 21/09/18.
- * XPI
- * elmehdi.mellouk@xpi.com
+ * mellouk.elmehdi@gmail.com
  */
 class MyApplication: Application() {
 
