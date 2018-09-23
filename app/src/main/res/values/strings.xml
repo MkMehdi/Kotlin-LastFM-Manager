@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LastFM_APP</string>
+
+    <string name="text_top">Top</string>
+    <string name="text_search">Find your Artist</string>
+    <string name="text_albums">My Albums</string>
+    <string name="text_top_screen">Albums OverView</string>
+
+    <string name="s_empty">No Albums Found</string>
+    <string name="s_artist_empty">No Artist Found</string>
+    <string name="s_sub_empty">Go search for your artists and select best albums</string>
+
+</resources>
