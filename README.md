@@ -10,6 +10,6 @@ With help of the app the user should be able to search for artists and pick one 
 +
 +
 
-Envi : Android studio 3.1.4, API 14, Kotlin, MVVM, Retrofit, Gson, Room.
+Envi : Android studio 3.1.4, API 14, Kotlin, MVVM, Retrofit, Room.
 
 
