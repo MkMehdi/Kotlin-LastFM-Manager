@@ -15,8 +15,7 @@ import ma.polyapps.lastfm.db.entity.TrackEntity
 
 /**
  * Created by Elmehdi Mellouk on 21/09/18.
- * XPI
- * elmehdi.mellouk@xpi.com
+ * mellouk.elmehdi@gmail.com
  */
 
 @Database(entities = [(AlbumEntity::class), (TrackEntity::class), (ArtistEntity::class)], version = 1,exportSchema = false)
